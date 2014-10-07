@@ -1,1 +1,2 @@
 Covering rails basics
+---------------------
